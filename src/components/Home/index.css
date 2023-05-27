@@ -1,0 +1,36 @@
+.main-container {
+  color: #ffffff;
+}
+
+.container {
+  height: 100vh;
+  color: #ffffff;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+  align-items: center;
+}
+
+.header {
+  font-size: 70px;
+}
+.ipl-container {
+  display: flex;
+  align-items: center;
+}
+
+.ipl-logo {
+  width: 60px;
+  height: 120px;
+  margin-right: 30px;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

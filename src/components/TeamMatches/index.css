@@ -1,0 +1,19 @@
+.main-container {
+  background-color: #fff123;
+  background-size: cover;
+  height: 200vh;
+}
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  width: 95%;
+  color: #fff123;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
